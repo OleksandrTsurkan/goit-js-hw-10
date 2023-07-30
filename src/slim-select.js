@@ -1,0 +1,1 @@
+import SlimSelect from 'slim-select'
